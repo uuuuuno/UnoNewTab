@@ -1,0 +1,8 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  @apply bg-gray-500 min-h-screen text-white;
+}
