@@ -112,7 +112,7 @@
         GitHub.
       </p>
       <button
-        href="/"
+        href="https://github.com/uuuuuno/UnoNewTab"
         class="w-full text-center bg-gray-500 hover:bg-gray-700 border border-gray-800 border-opacity-50 px-3 py-2 text-lg rounded-xl transition-colors duration-500 hover:border-opacity-80 group overflow-hidden relative flex items-center">
         <span
           class="absolute left-0 transition-transform -translate-x-full group-hover:translate-x-4 duration-300">
