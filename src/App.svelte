@@ -33,7 +33,8 @@
     <img src={logo} alt="Waving hand" class="hover:rotate-12 transition-transform duration-500" />
   </a>
   <button
-    class="text-gray-800 hover:text-white transition-all duration-500 hover:rotate-45"
+    title="Settings"
+    class="text-gray-900 hover:text-white transition-all duration-500 hover:rotate-45"
     on:click={() => (isSettingsMenuOpen = !isSettingsMenuOpen)}>
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -57,7 +58,7 @@
 
 <div class="sm:h-96 xl:h-full container mx-auto px-5">
   <div class="justify-center flex mt-12 md:mt-24 xl:mt-32 content-center pt-12 sm:pt-32 ">
-    <div class="w-full max-w-6xl mx-2 md:mx-6">
+    <div class="w-full max-w-7xl mx-2 px-4 md:mx-6">
       <form
         on:submit|preventDefault={() =>
           (window.location.href = `${searchEngines[$settings.searchEngine].url}${encodeURIComponent(

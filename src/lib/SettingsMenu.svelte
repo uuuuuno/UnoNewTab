@@ -33,7 +33,7 @@
       <button on:click={() => (open = false)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="h-6 w-6 cursor-pointer text-gray-800 hover:text-white transition-all duration-500 hover:rotate-12"
+          class="h-6 w-6 cursor-pointer text-gray-900 hover:text-white transition-all duration-500 hover:rotate-12"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor">
@@ -111,7 +111,7 @@
         This site / extension is open-source and licensed under GPL v3. Check out our source code on
         GitHub.
       </p>
-      <button
+      <a
         href="https://github.com/uuuuuno/UnoNewTab"
         class="w-full text-center bg-gray-500 hover:bg-gray-700 border border-gray-800 border-opacity-50 px-3 py-2 text-lg rounded-xl transition-colors duration-500 hover:border-opacity-80 group overflow-hidden relative flex items-center">
         <span
@@ -124,7 +124,7 @@
           </svg>
         </span>
         <p class="group-hover:ml-8 transition-all duration-500">GitHub</p>
-      </button>
+      </a>
     </div>
   </div>
 {/if}

@@ -6,7 +6,7 @@
 
 {#if selectedLink !== null}
   <div class="w-full h-full">
-    <div class="w-full h-full bg-black bg-opacity-70 top-0 absolute z-40" />
+    <div class="fixed inset-0  w-full h-full bg-black bg-opacity-70 top-0 z-40" />
     <div
       class="w-full md:w-2/3 lg:w-1/3 flex flex-col gap-2 -translate-y-1/2 p-6 bg-gray-600 rounded-none md:rounded-2xl top-1/2 left-1/2 -translate-x-1/2 absolute z-50">
       <div class="flex justify-between items-center">
@@ -28,7 +28,7 @@
         <button on:click={() => (selectedLink = null)}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            class="h-6 w-6 cursor-pointer text-gray-800 hover:text-white transition-all duration-500 hover:rotate-12"
+            class="h-6 w-6 cursor-pointer text-gray-900 hover:text-white transition-all duration-500 hover:rotate-12"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor">
