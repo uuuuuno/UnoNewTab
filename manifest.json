@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Uno New Tab",
   "description": "Cool new tab extension 😎",
-  "version": "1.0",
+  "version": "1.0.1",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
