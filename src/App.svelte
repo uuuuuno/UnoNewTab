@@ -16,9 +16,9 @@
 
   $: searchEngines = {
     yandex: { url: 'https://yandex.ru?q=', image: YandexLogo },
-    google: { url: 'https://google.com/search?q=', image: GoogleLogo },
+    google: { url: 'https://www.google.com/search?q=', image: GoogleLogo },
     duckduckgo: { url: 'https://duckduckgo.com?q=', image: DuckduckgoLogo },
-    brave: { url: 'https://search.brave.com?q=', image: BraveLogo },
+    brave: { url: 'https://search.brave.com/search?q=', image: BraveLogo },
     custom: { url: $settings.customEngine, image: SearchLogo }
   };
 </script>
