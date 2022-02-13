@@ -5,7 +5,9 @@ This is a New Tab browser extension made with [Svelte](https://svelte.dev) and [
 ## Links
 
 Try the extension - https://start.uuuuuno.fun/
+
 Download for Firefox - https://addons.mozilla.org/ru/firefox/addon/unonewtab/
+
 Download for Chrome (and other Chromium browsers) - Coming soon
 
 ## Authours
