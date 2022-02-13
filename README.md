@@ -10,7 +10,7 @@ This extension is made by [uuuuuno](https://github.com/uuuuuno) and [RonanRU](ht
 
 Your contributions are welcome!
 
-You need [node](https://nodejs.org/) and [pnpm](https://pnpm.io/) develop the extension
+You will need [node](https://nodejs.org/) and [pnpm](https://pnpm.io/) to develop the extension
 
 1. Install the dependensies with
    ```bash
