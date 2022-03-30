@@ -2,6 +2,10 @@
 
 This is a New Tab browser extension made with [Svelte](https://svelte.dev) and [Vite](https://vitejs.dev/).
 
+# Donation
+
+If you want to support my work, star the project on github and consider donating here - [Donationalerts](https://www.donationalerts.com/r/uuuuuno).
+
 ## Links
 
 Try the extension - https://start.uuuuuno.fun/
