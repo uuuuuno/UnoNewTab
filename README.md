@@ -1,12 +1,12 @@
-# UnoNewTab
+# 👋 UnoNewTab
 
 This is a New Tab browser extension made with [Svelte](https://svelte.dev) and [Vite](https://vitejs.dev/).
 
-## Support me
+## 💸 Support me
 
 If you want to support my work, star the project on github and consider donating here - [Donationalerts](https://www.donationalerts.com/r/uuuuuno).
 
-## Links
+## 🔗 Links
 
 Try the extension - https://start.uuuuuno.fun/
 
@@ -14,11 +14,11 @@ Download for Firefox - https://addons.mozilla.org/ru/firefox/addon/unonewtab/
 
 Download for Chrome (and other Chromium browsers) - Coming soon
 
-## Authours
+## 👥 Authours
 
 This extension is made by [uuuuuno](https://github.com/uuuuuno) and [RonanRU](https://github.com/RonanRU) and licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
-## Contributing
+## ⌨️ Contributing
 
 Your contributions are welcome!
 
