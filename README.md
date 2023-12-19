@@ -10,7 +10,7 @@ If you want to support my work, star the project on github and consider donating
 
 Try the extension - https://start.uuuuuno.fun/
 
-Download for Firefox - https://addons.mozilla.org/ru/firefox/addon/unonewtab/
+Download for Firefox - https://addons.mozilla.org/firefox/addon/unonewtab/
 
 Download for Chrome (and other Chromium browsers) - Coming soon
 
